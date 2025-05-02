@@ -6,8 +6,7 @@ AWS
 
 
 ## Story
-- Background
-Xertz Technologies, a cybersecurity-focused research firm, has recently identified traces of an unauthorized presence within its infrastructure. The signs are subtle—nothing overtly malicious, nothing that triggered conventional alerts—but something feels off.
+Background: Xertz Technologies, a cybersecurity-focused research firm, has recently identified traces of an unauthorized presence within its infrastructure. The signs are subtle—nothing overtly malicious, nothing that triggered conventional alerts—but something feels off.
 
 Security analysts noticed an unusual file buried deep within one of their public systems. At first glance, it appeared to be a leftover deployment artifact. But a deeper inspection raised more questions than answers: where did it come from, who put it there, and why?
 
