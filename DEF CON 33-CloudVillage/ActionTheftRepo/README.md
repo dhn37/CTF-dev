@@ -30,9 +30,6 @@ xxx
 4. GitHub Actions (OIDC federation)
 5. Github gist
 
-## Solution
-
-Refer to the [solution/](./solution) directory.
 
 ## Implementation Details
 
